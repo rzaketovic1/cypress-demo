@@ -6,11 +6,11 @@ The repository includes an example of component testing in the Accordion.cy.js f
 
 # How to Run Tests:
 
-Clone the repository using the command: git clone [repository_url]
-Install the necessary dependencies: npm install
-Start the development server: npm run dev
-Install Cypress as a development dependency: npm install cypress --save-dev
-Open Cypress with the command: npx cypress open
+- Clone the repository using the command: `git clone [repository_url]`
+- Install the necessary dependencies: `npm install`
+- Start the development server: `npm run dev`
+- Install Cypress as a development dependency: `npm install cypress --save-dev`
+- Open Cypress with the command: `npx cypress open`
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
