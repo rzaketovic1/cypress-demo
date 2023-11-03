@@ -1,0 +1,11 @@
+This repository contains a basic application demonstrating the approach to end-to-end (E2E) testing. Inside the Cypress/e2e folder, you will find files examples, forms and fundamentals which contain tests. The tests utilize the Page Object Model (POM) design, with classes imported from the 'pages' folder.
+
+The repository includes an example of component testing in the Accordion.cy.js file.
+
+How to Run Tests:
+
+Clone the repository using the command: git clone [repository_url]
+Install the necessary dependencies: npm install
+Start the development server: npm run dev
+Install Cypress as a development dependency: npm install cypress --save-dev
+Open Cypress with the command: npx cypress open
